@@ -35,7 +35,8 @@ After providing the input, an SVG file named logo.svg will be generated in the p
 - Open logo.svg in a web browser to view the generated logo.
 I prefer the drag and drop method. Use this bt dragging the logo.svg file into your browsers window.
 
-
+- click the following link for a video demonstration of the application's functionality:
+https://drive.google.com/file/d/15KkMD5AuBLRfMGsx7V-evlpxKZyRU1dY/view
 ![Alt text](<assets/Screenshot 2023-06-12 231441.png>)
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
